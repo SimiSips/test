@@ -1,0 +1,30 @@
+# csv.to_csv(f'{DATA_DIR}/labels.csv')
+# print(csv)
+
+# data.loc[[0,4], 'labels'] = 'GBCPimville'
+# data.loc[[0,1,2,15,16,17], 'labels'] = 'GBC Pimville'
+# data.loc[[9,10], 'labels'] = 'GBC Brackenhurst'
+# data.loc[[7,8], 'labels'] = 'GBC Midrand'
+# data.loc[[11,12], 'labels'] = 'GBC Protea Glen'
+# data.loc[[14], 'labels'] = 'GBC Rosettenville'
+# data.loc[[5,6], 'labels'] = 'GBC Cape Town'
+# data.loc[[3], 'labels'] = 'GBC Thokoza'
+# data.loc[[13], 'labels'] = 'GBC Linden'
+
+
+
+#data.loc[0, 'labels'].replace(1, "GBCPimville")
+
+
+
+# def branch_checker(branch_number, branch_name):
+#   data.loc[[branch_number], 'labels'] = branch_name
+
+# branch_checker(1, "GBC Pimville")
+
+# def label_lookup(label_number):
+#   data
+# print(data)
+# data.to_csv(f'{DATA_DIR}/data_unsorted.csv')
+
+NLP Stuff deleted comments
